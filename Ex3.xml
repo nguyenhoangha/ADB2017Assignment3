@@ -2,7 +2,7 @@
 <AbsoluteMove>
   <ProfileToken>Token One</ProfileToken>
   <Position>
-    <PanTilt x="1.0212" y="2.0212"/>
-    <Zoom x="3.01"/>
+    <PanTilt x="1.01212" y="2.10212"/>
+    <Zoom x="3.033"/>
   </Position>
 </AbsoluteMove>
